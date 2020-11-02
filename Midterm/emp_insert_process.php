@@ -8,7 +8,7 @@ $filtered = array(
     'gender' => mysqli_real_escape_string($link, $_POST['gender']),
     'hire_date' => mysqli_real_escape_string($link, $_POST['hire_date'])
 );
-$query = "
+$query = "  
         INSERT INTO employees (
             emp_no,
             birth_date,

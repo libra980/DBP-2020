@@ -20,3 +20,7 @@ Statement 에서 개선한게 PreparedStatement임
 (+) rollback과 commit에 대해 다시 공부할 수 있어서 좋았다.
 (-) 코드에 오탈자가 있는지 잘 확인해야 한다.  
 (!) 중복되는 부분을 하나의 메서드로 만들어야 보기좋다.
+
+
+## ❤ 실행 영상
+https://youtu.be/_dpnuhEKeP4
